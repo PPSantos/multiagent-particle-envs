@@ -16,6 +16,7 @@ _particles = {
     "simple_spread_xy_8": "SimpleSpreadXY8-v0",
     "simple_spread_blind": "SimpleSpreadBlind-v0",
     "simple_spread_blind_6": "SimpleSpreadBlind6-v0",
+    "simple_spread_blind_12": "SimpleSpreadBlind12-v0",
     "simple_blind_deaf": "SimpleBlindDeaf-v0",
     "simple_tag": "SimpleTag-v0",
     "simple_world_comm": "SimpleWorldComm-v0",
